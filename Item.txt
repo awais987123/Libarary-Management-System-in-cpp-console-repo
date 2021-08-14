@@ -1,0 +1,8 @@
+ItemID LibraryID   Category         Title           Author           Publisher        Production Year                    Status                       Copies
+  123         1       Book             a                a                   a                   2019                   onshelf                           23
+ItemID LibraryID   Category         Title           Author           Publisher        Production Year                    Status                       Copies
+  123         1       Book             d                d                   d                      0                       N/A                            0
+ItemID LibraryID   Category         Title           Author           Publisher        Production Year                    Status                       Copies
+  123         1       Book         awais                a                   a                   2019                   onshelf                           23
+ItemID LibraryID   Category         Title           Author           Publisher        Production Year                    Status                       Copies
+  123         1       Book         awais              ash                   s                   1982                   onshelf                           23
